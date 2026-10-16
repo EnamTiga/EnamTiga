@@ -77,6 +77,17 @@ A weekly stock-taking (*opname*) worksheet web app for construction site enginee
 
 ---
 
+## 🏆 Certifications: BreachLab
+
+| Certificate | Focus | Date | Credential |
+|---|---|---|---|
+| [Ghost Operative](https://breachlab.org/u/ryanmmalik/certificate/ghost) | Linux exploitation | 2026-09-15 | GHST-9CE5-EB8F-5AEB |
+| [Linux Post-Exploitation Specialist](https://breachlab.org/u/ryanmmalik/certificate/phantom-i) | Post-exploitation | 2026-09-29 | PHN1-F961-D210-49DC |
+
+Profile: [breachlab.org/u/ryanmmalik](https://breachlab.org/u/ryanmmalik) · Operative Level 42 · 122 levels solved · 3 tracks completed.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
