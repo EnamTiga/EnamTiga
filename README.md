@@ -93,10 +93,9 @@ A weekly stock-taking (*opname*) worksheet web app for construction site enginee
 ## 📫 Reach Me
 
 - 💼 GitHub: [@EnamTiga](https://github.com/EnamTiga)
-<!-- Add more when ready:
-- ✉️ Email: your.email@example.com
-- 💬 LinkedIn: https://linkedin.com/in/your-handle
--->
+- ✉️ Email: [haloenamtiga@gmail.com](mailto:haloenamtiga@gmail.com)
+- 💬 Telegram: [@haloenamtiga](https://t.me/haloenamtiga)
+- 🌐 Website: [enamtiga.link](https://enamtiga.link)
 
 ---
 
